@@ -1,0 +1,39 @@
+body
+{
+  background-color: ##f9f9f9;
+  line-height: 1.6;
+  color:#474444;
+  padding-left:320px;
+  padding-right:320px;
+  padding-top: 30x;
+}
+
+h1
+{
+  font-size: 37px;
+}
+
+h2
+{
+  font-size: 27px;
+}
+
+h3
+{
+  font-size: 20px;
+}
+
+p
+{
+  font-size: 18px;
+}
+
+ul
+{
+  font-size: 18px;
+}
+
+blockquote
+{
+  font-size: 18px;
+}
