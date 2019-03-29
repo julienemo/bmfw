@@ -1,2 +1,5 @@
-# bmfw
-exercice BetterMotherFuckingWebsite (preparcours THP)
+see
+
+https://julienemo.github.io
+
+for display
